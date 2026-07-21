@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-70cnp4.syndicatealpha.ai/sitemap.xml
